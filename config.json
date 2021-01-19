@@ -1,0 +1,7 @@
+{
+    "appsearch":{
+        "base_endpoint":"6d2d034d12ff4dd7a95281759fdd9eca.ent-search.us-central1.gcp.cloud.es.io/api/as/v1",
+        "api_key":"private-xauwv33hxz1ur5mkbg8jvrp2",
+        "engine_name":"movies"
+    }
+}
